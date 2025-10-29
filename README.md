@@ -1,1 +1,1 @@
-# Super-Reduced-String-algo
+# Super-Reduced-String-algo The function uses a stack to remove pairs of adjacent identical characters from the string. If all characters are removed, it returns "Empty String", otherwise it returns the reduced result.
